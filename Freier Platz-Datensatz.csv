@@ -1,0 +1,21 @@
+Name;Stadt;Straße;Nummer;Plz;Amenity;Cuisine;Öffnungszeiten;Website;Rollstuhl?;Telefon;Vegetarisch?;Vegan?;geometry/coordinates/0;geometry/coordinates/1
+Hatari;Hamburg;Schanzenstraße;4;20357;restaurant;burger;12:00+;http://www.qype.com/place/92066-Hatari-Pfaelzer-Stube-Hamburg;no;040 43208866;-;-;99.645.183;535.593.936
+Burgerlab;Hamburg;Max-Brauer-Allee;251;22769;restaurant;burger;"Mo-Sa 12:00-22:30; Su 13:00-20:30";http://theburgerlab.de/;limited;+49 40 41 49 45 29;-;-;99.572.332;53.562.657
+Peter Pane;Hamburg;Lange Reihe;107;20099;restaurant;burger;Mo-Su 11:00+;http://www.peterpane.de/;yes;+49 40 28008535;yes;-;100.136.866;535.595.059
+Burger Lounge;Hamburg;Holstenstraße;22;22767;restaurant;burger;Mo-Su 11:30-23:00;http://www.burgerlounge.de/;no;040 858888;-;-;99.543.888;535.529.903
+Café Türkis;Hamburg;Steindamm;71;20099;restaurant;burger;"Mo-Fr 06:30-22:00; Sa, Su, PH 14:00-22:00";http://cafetuerkis.de;-;040 71001404;-;-;10.016.452;53.555.719
+BurgerKultour;Hamburg;Eimsbütteler Chaussee;25;20259;restaurant;burger;"Mo-We,Su 12:00-21:00; Th-Sa 12:00-23:00";http://www.burgerkultour.de/;limited;+49 176 26055122;-;-;99.571.226;535.668.488
+Peter Pane;Hamburg;Schäferkampsallee;1;20357;restaurant;burger;Mo-Sa 11:00+;https://www.peterpane.de;yes;040 41623667;yes;yes;99.692.932;535.674.586
+Old MacDonald;Hamburg;Stellinger Weg;33;20255;restaurant;burger;"Mo-Sa 11:30+; Su 10:00+";http://www.oldmacdonald.de/;limited;040 5232983;-;-;99.490.822;53.579.129
+Saints and Sinners;Hamburg;Talstraße;29;20359;restaurant;burger;"Fr-Su 17:00-23:00; Mo-Th 12:00-22:00";-;limited, keine Stufen, aber leider keine Toilette;+49 40 3616391;-;yes;99.599.424;535.508.015
+Burgerlich;Hamburg;Speersort;1;20095;restaurant;burger;"Mo-Su 11:30-23:00; Fr,Sa 11:30-24:00";http://www.burgerlich.com;yes;+49 40 35715632;-;-;99.989.731;535.496.922
+Jung und Frech;Hamburg;Schulterblatt;36;20357;restaurant;burger;Mo-Fr 11:00 - 01:00, Sa-Su 11:00 - 02:00;-;-;040 63745704;-;-;9.962.961;535.610.604
+Hans im Glück - Hamburg Altes Rathaus;Hamburg;Börsenbrücke;10;20457;restaurant;burger;"Mo-Sa 11:30-23:00; Su 12:00-22:00";https://hansimglueck-burgergrill.de;-;+49 40 822177873;-;-;99.924.708;535.486.008
+Hensel was sonst;Hamburg;Mühlenkamp;12;22303;restaurant;burger;"Mo-Fr 11:30-21:00; Sa 15:00-21:00; PH off";http://www.hensel-burger-winterhude.de/;no;49-40-637970312;-;-;100.124.541;535.806.456
+Otto's Burger;Hamburg;Schanzenstraße;58;20357;restaurant;burger;"Mo-Th 11:30-22:30; Fr 11:30-23:00; Sa 09:00-23:00; Su 09:00-22:00";http://ottosburger.com/schanze/;-;040 33458270;-;-;99.658.906;535.616.549
+Burger Village;Hamburg;Max-Brauer-Allee;10;22765;restaurant;burger;Tu-Fr 12:00 - 22:00, Sa-Su 15:00 - 22:00;https://www.burger-village.de/;no;040 84602357;-;-;99.364.721;535.470.722
+Grilly Idol Burger;Hamburg;Clemens-Schultz-Straße;40;20359;restaurant;burger;Mo-Su 12:00+;http://grilly-idol.de/;limited;040 33452906;-;-;99.621.827;535.523.843
+Otto's Burger;Hamburg;Lange Reihe;40;20099;restaurant;burger;"Mo-Th 11:30-22:30; Fr-Sa 11:30-23:00; Su 11:30-22:00";https://www.ottosburger.com;-;040 23953382;-;-;100.103.122;535.563.181
+Peace Love & Burgers;Hamburg;Grindelallee;26;20146;restaurant;burger;"Mo-Fr 12:00-22:00; Sa-So 13:00-22:00";https://www.peaceloveburgers-hamburg.de/;-;0176 77846736;yes;yes;99.837.125;535.650.422
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
